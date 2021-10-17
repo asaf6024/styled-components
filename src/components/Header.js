@@ -38,7 +38,7 @@ export default function Header() {
                             <b>Front End Developer</b>
                         </p>
                         <p>
-                            This site was built with Styled components library <a target='_blank'
+                            This site was built with styled components library <a target='_blank'
                                 title='https://www.npmjs.com/package/styled-components'
                                 style={{ fontSize: '24pt' }}
                                 href='https://www.npmjs.com/package/styled-components'><FaNpm /></a>
