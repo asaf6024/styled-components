@@ -1,7 +1,7 @@
 # Styled-Components
 ##  [Live Demo](https://styled-component-asaf.netlify.app/)
 
-A simple React app using #[Styled-Components library](https://www.npmjs.com/package/styled-components)
+A simple React app using [Styled-Components library](https://www.npmjs.com/package/styled-components)
 
 ![Home Page](https://my-portfolio-asaf.netlify.app/img/websites/styled-components.JPG)
 
